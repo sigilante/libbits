@@ -4,7 +4,7 @@
 |%
 ++  and  dis
 ++  or   con
-++  not  not
+++  not  ^not
 ++  xor  mix
 --
 
